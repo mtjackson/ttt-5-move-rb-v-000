@@ -12,5 +12,5 @@ move(board, index)
 
 display_board(board)
 
-move(board, 0)
+
 puts display(board)
