@@ -12,5 +12,5 @@ move(board, index)
 
 display_board(board)
 
-board2 = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board(board2)
+board[0]] = "X"
+display_board(board)
