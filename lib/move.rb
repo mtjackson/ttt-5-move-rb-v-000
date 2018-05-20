@@ -13,13 +13,3 @@ end
 def move(board, index, value="X")
   board[index] = value
 end
-
-# code your input_to_index and move method here!
-def display_board2(board2)
-  board2 = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
-  puts " #{board2[0]} | #{board2[1]} | #{board2[2]} "
-  puts "-----------"
-  puts " #{board2[3]} | #{board2[4]} | #{board2[5]} "
-  puts "-----------"
-  puts " #{board2[6]} | #{board2[7]} | #{board2[8]} "
-end
