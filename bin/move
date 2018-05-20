@@ -11,8 +11,3 @@ index = input_to_index(input)
 move(board, index)
 
 display_board(board)
-
-input = 1
-index = input_to_index(1)
-move(board, index)
-display_board(board)
