@@ -13,3 +13,4 @@ move(board, index)
 display_board(board)
 
 input = 1
+display_board(board)
