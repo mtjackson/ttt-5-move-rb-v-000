@@ -9,5 +9,6 @@ input = gets.strip
 
 index = input_to_index
 move(board, index)
+display_board(board)
 
 puts display_board
