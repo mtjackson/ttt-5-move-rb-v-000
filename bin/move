@@ -11,3 +11,6 @@ index = input_to_index(input)
 move(board, index)
 
 display_board(board)
+
+board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
+display_board(board)
