@@ -12,5 +12,6 @@ move(board, index)
 
 display_board(board)
 
+index = 0
 move(board, 0)
 display_board(board)
